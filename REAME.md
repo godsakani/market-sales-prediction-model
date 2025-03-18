@@ -59,3 +59,7 @@ The Supermarket Sales Dataset provides a comprehensive overview of supermarket t
 
 5. **Deployment:**  
    The final model is deployed using Streamlit, allowing end-users to interact with the model by inputting various market indicators and receiving market sales predictions in real time.
+
+## Link to dataset
+
+[Market Sales Dataset](https://www.kaggle.com/datasets/willianoliveiragibin/market-sales-data)
